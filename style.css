@@ -224,6 +224,7 @@ border-radius:40px;
   padding-right: 17px;
 }
 .interests{
+ width: 97vw;
   padding: 30px;
   display: flex;
   align-items: center;
@@ -255,7 +256,7 @@ border-radius:40px;
 .left-button, .right-button{
   background: var(--light-grey);
   border-radius: 40px;
-  padding: 14px 14px;
+  padding: 8px 8px;
   margin: 5px;
 }
 .scrollable-chips{
